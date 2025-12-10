@@ -145,7 +145,7 @@ VS Code                20 hrs 56 mins        ███████████�
 Windows                      29 hrs 3 mins   █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
  Last Updated on 04/10/2025 00:35:11 UTC
 
